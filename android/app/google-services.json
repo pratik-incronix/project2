@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "326708826080",
+    "project_id": "task2clis",
+    "storage_bucket": "task2clis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326708826080:android:8dd5673f77a3555f4f2585",
+        "android_client_info": {
+          "package_name": "com.example.task2cli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrndOZtwTv0obxCIkmp6-WbYpiDFyg9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
